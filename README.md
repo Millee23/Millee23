@@ -14,7 +14,6 @@ Pandas | NumPy | Power BI | MySQL | Excel
 🏏 Sports Performance Analytics Dashboard  
 🏥 Hospital Patient Data Analysis  
 🛒 Retail Data Modeling – ShoplyMart  
-🌍 Climatological Disaster Analysis  
 
 ## Currently Learning
 Advanced Data Analytics and Business Intelligence
