@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, I'm Millee Gupta 👋
 
-<!--
-**Millee23/Millee23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Aspiring Data Analyst passionate about turning data into actionable insights.
 
-Here are some ideas to get you started:
+## Skills
+Python | SQL | Power BI | Excel | Data Analysis | Data Visualization | EDA
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tools
+Pandas | NumPy | Power BI | MySQL | Excel
+
+## Projects
+📊 Social Media Engagement & Brand Performance Analytics  
+✈️ Aviation & Travel Demand Analytics  
+🏏 Sports Performance Analytics Dashboard  
+🏥 Hospital Patient Data Analysis  
+🛒 Retail Data Modeling – ShoplyMart  
+🌍 Climatological Disaster Analysis  
+
+## Currently Learning
+Advanced Data Analytics and Business Intelligence
+
+## Connect with Me
+LinkedIn: www.linkedin.com/in/millee23
+GitHub: https://github.com/Millee23
